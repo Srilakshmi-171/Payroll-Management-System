@@ -46,3 +46,29 @@ A Java-based desktop application designed to manage employee payroll operations 
 ## Author
 
 Developed as a Java desktop application project.
+
+## Application Screenshots
+
+### Login Page
+![Login Page](images/login.png)
+
+### Main Menu
+![Main Menu](images/main.png)
+
+### Add Employee
+![Add Employee](images/add%20employee.png)
+
+### Update Employee
+![Update Employee](images/update%20employee.png)
+
+### Search Employee
+![Search Employee](images/search%20employee.png)
+
+### Delete Employee
+![Delete Employee](images/delete.png)
+
+### Apply Leave
+![Apply Leave](images/aply%20leave.png)
+
+### Help Desk
+![Help Desk](images/help%20desk.png)
